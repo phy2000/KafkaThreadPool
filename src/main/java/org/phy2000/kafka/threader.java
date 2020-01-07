@@ -1,4 +1,4 @@
-package com.distributedlog;
+package org.phy2000.kafka;
 
 import org.apache.commons.cli.*;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
